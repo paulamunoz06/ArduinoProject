@@ -41,7 +41,7 @@
 #define PIN_RED 46                  /**< Pin para el LED rojo */
 #define PIN_BLUE 42                 /**< Pin para el LED azul */
 #define PIN_GREEN 44                /**< Pin para el LED verde */
-#define PIN_BUZZER 10               /**< Pin para el buzzer */
+#define PIN_BUZZER 48               /**< Pin para el buzzer */
 
 #define DHTTYPE DHT11               /**< Tipo de sensor DHT */
 #define TH_TEMP_HIGH 32.0           /**< Límite superior de temperatura */
